@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Tarot time
+
+
+[Click me](http://www.google.com){: .btn}
+
+
 
 You can use the [editor on GitHub](https://github.com/yesvi/tarot/edit/index/index.md) to maintain and preview the content for your website in Markdown files.
 
